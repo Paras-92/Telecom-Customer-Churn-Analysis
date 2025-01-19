@@ -1,4 +1,4 @@
-### Telecom Customer Churn Analysis
+![image](https://github.com/user-attachments/assets/01b37c52-e189-41f8-879d-fb267a370cfe)### Telecom Customer Churn Analysis
 
 ---
 
@@ -17,11 +17,13 @@ The primary objective of this project is to explore customer churn patterns and 
 #### **Key Insights**
 1. **Contract Type and Churn**  
    - Customers on **month-to-month contracts** exhibit the highest churn rate (42%), compared to **yearly contracts (11%)** and **two-year contracts (3%)**.  
-   - **Recommendation:** Promote long-term contracts by offering incentives to encourage customers to shift from month-to-month plans.  
+   - **Recommendation:** Promote long-term contracts by offering incentives to encourage customers to shift from month-to-month plans.
+   - ![image](https://github.com/user-attachments/assets/196c0867-c765-482c-87df-53c9832ab167)
 
 2. **Payment Methods and Churn**  
    - Customers using **electronic checks** have the highest churn rate (45%), compared to **credit cards**, **bank transfers**, or **mailed checks** (15-18%).  
    - **Recommendation:** Encourage customers to switch from electronic checks to more reliable and secure payment methods.
+   - ![image](https://github.com/user-attachments/assets/ddd85070-42c8-423a-af01-979371f2aa24)
 
 3. **Churn by Tenure**  
    - Customers with **tenure less than one year** have a 50% churn rate, decreasing to 15% after three years.  
@@ -34,18 +36,22 @@ The primary objective of this project is to explore customer churn patterns and 
 5. **Senior Citizens and Churn**  
    - Senior citizens (aged 65+) have a **41% churn rate**, higher than non-senior citizens (26%).  
    - **Recommendation:** Implement special programs or personalized assistance for senior customers to improve their satisfaction and retention.
+   ![image](https://github.com/user-attachments/assets/31530dac-5af1-4825-aa7d-91abda5da38d)
+   ![image](https://github.com/user-attachments/assets/da25a521-06dc-4c0a-81cc-13fe3669c2bc)
 
 ---
 
 #### **Visualizations**
 - **Bar Charts and Line Graphs:**  
    - Churn by **contract type**, **payment method**, **tenure**, and **internet service type** is visualized to highlight trends and disparities.  
-   - The analysis reveals that churn decreases with longer tenure and more secure payment methods.
+   - The analysis reveals that longer tenure and more secure payment methods decrease churn.
 
 - **Percentage Distributions:**  
    - Payment Methods: 45% churn for electronic check users, 15% for credit card users.  
    - Contract Types: 42% churn for month-to-month contracts, 11% for yearly contracts, and 3% for two-year contracts.  
    - Tenure: 50% churn in the first year, dropping to 15% after three years.
+
+![image](https://github.com/user-attachments/assets/54481624-4472-48f8-8578-510b61fb97fc)
 
 ---
 
