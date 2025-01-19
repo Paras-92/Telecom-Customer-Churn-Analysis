@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/01b37c52-e189-41f8-879d-fb267a370cfe)### Telecom Customer Churn Analysis
+### Telecom Customer Churn Analysis
 
 ---
 
